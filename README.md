@@ -1,4 +1,5 @@
 #CommentSpam
+
 #Welcome to my GitHub repository on Spam Comment Filtering on YouTube using Ensemble Method.
 Real time spam comment filtering using ensemble method of classification algorithms for YouTube platform
 
@@ -16,4 +17,14 @@ To Label comments as Spam or Ham
 To protect users from malicious activities
 To show that ensemble method is feasible to get more accurate results
 
+We will make use of Na¨ıve Bayes, K-nearest neighbor and KNN algorithm for the purpose of spam detection in YouTube videos. Using these algorithms we achieve results that are more efﬁcient and accurate in the classiﬁcation of a given comment as a spam. 
 
+Algorithms Used:
+Support vector Machine
+K-Nearest neighbours
+Naive bayes
+
+Language : Python 3.7
+
+Packages Required:
+tkinter ,nltk ,sklearn, numpy, pandas ,xslwritter,math ,re,matplotlib
