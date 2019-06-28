@@ -28,3 +28,10 @@ Language : Python 3.7
 
 Packages Required:
 tkinter ,nltk ,sklearn, numpy, pandas ,xslwritter,math ,re,matplotlib
+
+Dataset used:  
+
+you can use your own dataset as well. 
+
+Steps to Run program:
+
